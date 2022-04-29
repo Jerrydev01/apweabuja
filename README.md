@@ -1,8 +1,11 @@
-# ApwenAbujaChapter (Paid/Ongoing)
+
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/jerrydev01/portfolio/c03ffbcc5d26dc67a6a884b32cb4aae3cb3d7fdb/public/img/logo.svg" width="100" />
 </div>
 
+<h2 align="center">
+ <a href="#" target="_blank">ApwenAbujaChapter (Paid/Ongoing)</a>
+</h2>
 <h1 align="center">
  <a href="#" target="_blank">apwenabujachapter.org (coming soon)</a>
 </h1>
