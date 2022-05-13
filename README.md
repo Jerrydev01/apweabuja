@@ -24,13 +24,3 @@
 
  ApwenAbujachaper website is a website dedicated to women in engineering in abuja nigeria. They also support girl-children across the country.
 
-   
-## 🎨 Color Reference
-
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| White          | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
-| dark blue    | ![#1B1B72](https://via.placeholder.com/10/1B1B72?text=+) `#1B1B72` |
-| shade of Hollywood Cerise  | ![#EB058B](https://via.placeholder.com/10/EB058B?text=+) `#EB058B` |
-| Light Gray          | ![#D1D1D1](https://via.placeholder.com/10/D1D1D1?text=+) `#D1D1D1` |
-
